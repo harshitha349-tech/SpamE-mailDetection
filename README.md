@@ -314,6 +314,11 @@ The repository includes the project report and four project-review presentation 
 
 The presentations document the project's progression from problem definition and feasibility through literature review, methodology, implementation progress, database design, ML integration, and final system architecture/results.
 
+## Project Screenshots
+
+[Download all project screenshots (ZIP)](PROJECT%20SCREENSHOTS.zip)
+
+
 ## Project Documentation: What Goes Where?
 
 The **README is the short project landing page**. It should explain what the project is, what it does, the technology stack, how to run it, and where the detailed material is located.
